@@ -1,0 +1,105 @@
+07-16 22:14:53.648 17827 17852 I TestRunner: started: radio_buttons_update_entree_menu_subtotal(com.example.lunchtray.OrderFunctionalityTests)
+07-16 22:14:53.659 17827 17852 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+07-16 22:14:53.679 10472 10532 D SplashScreenView: Build android.window.SplashScreenView{2cf237 V.E...... ......ID 0,0-0,0}
+07-16 22:14:53.679 10472 10532 D SplashScreenView: Icon: view: null drawable: null size: 0
+07-16 22:14:53.679 10472 10532 D SplashScreenView: Branding: view: android.view.View{27a13a4 G.ED..... ......I. 0,0-0,0 #10204a6 android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+07-16 22:14:53.697 17827 17827 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3942f5a in: PRE_ON_CREATE
+07-16 22:14:53.698 17827 17827 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3942f5a
+07-16 22:14:53.709 17827 17827 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3942f5a in: CREATED
+07-16 22:14:53.711 17827 17827 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3942f5a
+07-16 22:14:53.714 17827 17827 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3942f5a in: STARTED
+07-16 22:14:53.715 17827 17827 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3942f5a
+07-16 22:14:53.718   364   397 D goldfish-address-space: claimShared: Ask to claim region [0x3f0000000 0x3f09a4000]
+07-16 22:14:53.726   364   397 D goldfish-address-space: claimShared: Ask to claim region [0x3f0fd0000 0x3f1974000]
+07-16 22:14:53.728   364   398 D goldfish-address-space: claimShared: Ask to claim region [0x3f1974000 0x3f2318000]
+07-16 22:14:53.730 17827 17827 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3942f5a in: RESUMED
+07-16 22:14:53.730 17827 17827 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3942f5a
+07-16 22:14:53.733 17827 17827 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3942f5a in: PAUSED
+07-16 22:14:53.733 17827 17827 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3942f5a
+07-16 22:14:53.750 17827 17827 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@b21e3b0 in: PRE_ON_CREATE
+07-16 22:14:53.750 17827 17827 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+07-16 22:14:53.760 17827 17827 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@b21e3b0 in: CREATED
+07-16 22:14:53.762 17827 17827 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@b21e3b0
+07-16 22:14:53.763 17827 17827 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@b21e3b0 in: STARTED
+07-16 22:14:53.764 17827 17827 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@b21e3b0
+07-16 22:14:53.764 17827 17827 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@b21e3b0 in: RESUMED
+07-16 22:14:53.765 17827 17827 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@b21e3b0
+07-16 22:14:53.781 17827 17827 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3942f5a in: STOPPED
+07-16 22:14:53.781 17827 17827 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@3942f5a
+07-16 22:14:53.792 11140 11140 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+07-16 22:14:53.792 11140 11140 E HwDetectorWithState: a: 3
+07-16 22:14:53.799   364   398 D goldfish-address-space: claimShared: Ask to claim region [0x3fb1a4000 0x3fbb48000]
+07-16 22:14:53.806   364   398 D goldfish-address-space: claimShared: Ask to claim region [0x3f8000000 0x3f89a4000]
+07-16 22:14:53.816   364   398 D goldfish-address-space: claimShared: Ask to claim region [0x3f89a4000 0x3f9348000]
+07-16 22:14:53.829 10266 10295 I ActivityTaskManager: Displayed com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity: +161ms
+07-16 22:14:53.906 11042 11042 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3420
+07-16 22:14:53.907 11042 11042 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():2002
+07-16 22:14:53.910 11042 11042 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():31 Notify device unlocked.
+07-16 22:14:53.930 17827 17827 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230844/com.example.lunchtray:id/cauliflower>
+07-16 22:14:54.098 11321 11321 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=66, right=0, bottom=132}
+07-16 22:14:54.099 11321 11321 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=66, right=0, bottom=132}
+07-16 22:14:54.110 10266 11596 W InputManager-JNI: Input channel object '9622988 Splash Screen com.example.lunchtray (client)' was disposed without first being removed with the input manager!
+07-16 22:14:54.198 17827 17827 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $7.00"}' assertion on view view.getId() is <2131231217/com.example.lunchtray:id/subtotal>
+07-16 22:14:54.205 17827 17852 E TestRunner: failed: radio_buttons_update_entree_menu_subtotal(com.example.lunchtray.OrderFunctionalityTests)
+07-16 22:14:54.205 17827 17852 E TestRunner: ----- begin exception -----
+07-16 22:14:54.207 17827 17852 E TestRunner: androidx.test.espresso.base.DefaultFailureHandler$AssertionFailedWithCauseError: 'an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $7.00"' doesn't match the selected view.
+07-16 22:14:54.207 17827 17852 E TestRunner: Expected: an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $7.00"
+07-16 22:14:54.207 17827 17852 E TestRunner:      Got: view.getText() was "Subtotal: $0.00"
+07-16 22:14:54.207 17827 17852 E TestRunner: View Details: TextView{id=2131231217, res-name=subtotal, visibility=VISIBLE, width=342, height=67, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@5135236, tag=null, root-is-layout-requested=false, has-input-connection=false, x=694.0, y=1146.0, text=Subtotal: $0.00, input-type=0, ime-target=false, has-links=false}
+07-16 22:14:54.207 17827 17852 E TestRunner:
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at dalvik.system.VMStack.getThreadStackTrace(Native Method)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at java.lang.Thread.getStackTrace(Thread.java:1724)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:5)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at androidx.test.espresso.ViewInteraction.check(ViewInteraction.java:12)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at com.example.lunchtray.OrderFunctionalityTests.radio_buttons_update_entree_menu_subtotal(OrderFunctionalityTests.kt:52)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+07-16 22:14:54.207 17827 17852 E TestRunner: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2248)
+07-16 22:14:54.207 17827 17852 E TestRunner: Caused by: junit.framework.AssertionFailedError: 'an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $7.00"' doesn't match the selected view.
+07-16 22:14:54.207 17827 17852 E TestRunner: Expected: an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $7.00"
+07-16 22:14:54.207 17827 17852 E TestRunner:      Got: view.getText() was "Subtotal: $0.00"
+07-16 22:14:54.208 17827 17852 E TestRunner: View Details: TextView{id=2131231217, res-name=subtotal, visibility=VISIBLE, width=342, height=67, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@5135236, tag=null, root-is-layout-requested=false, has-input-connection=false, x=694.0, y=1146.0, text=Subtotal: $0.00, input-type=0, ime-target=false, has-links=false}
+07-16 22:14:54.208 17827 17852 E TestRunner:
+07-16 22:14:54.208 17827 17852 E TestRunner: 	at androidx.test.espresso.matcher.ViewMatchers.assertThat(ViewMatchers.java:16)
+07-16 22:14:54.208 17827 17852 E TestRunner: 	at androidx.test.espresso.assertion.ViewAssertions$MatchesViewAssertion.check(ViewAssertions.java:11)
+07-16 22:14:54.208 17827 17852 E TestRunner: 	at androidx.test.espresso.ViewInteraction$SingleExecutionViewAssertion.check(ViewInteraction.java:2)
+07-16 22:14:54.208 17827 17852 E TestRunner: 	at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:12)
+07-16 22:14:54.208 17827 17852 E TestRunner: 	at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:1)
+07-16 22:14:54.208 17827 17852 E TestRunner: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+07-16 22:14:54.208 17827 17852 E TestRunner: 	at android.os.Handler.handleCallback(Handler.java:938)
+07-16 22:14:54.208 17827 17852 E TestRunner: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+07-16 22:14:54.208 17827 17852 E TestRunner: 	at android.os.Looper.loopOnce(Looper.java:201)
+07-16 22:14:54.208 17827 17852 E TestRunner: 	at android.os.Looper.loop(Looper.java:288)
+07-16 22:14:54.208 17827 17852 E TestRunner: 	at android.app.ActivityThread.main(ActivityThread.java:7839)
+07-16 22:14:54.208 17827 17852 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+07-16 22:14:54.208 17827 17852 E TestRunner: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
+07-16 22:14:54.208 17827 17852 E TestRunner: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)
+07-16 22:14:54.209 17827 17852 E TestRunner: ----- end exception -----
+07-16 22:14:54.220 17827 17852 I TestRunner: finished: radio_buttons_update_entree_menu_subtotal(com.example.lunchtray.OrderFunctionalityTests)
